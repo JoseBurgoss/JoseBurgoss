@@ -18,9 +18,8 @@
 
 🔒 **Explorando Ciberseguridad:**  
 Actualmente aprendiendo:  
-- Fundamentos de pentesting y ethical hacking  
-- Seguridad en aplicaciones web (OWASP Top 10)  
-- Herramientas como Kali Linux y Wireshark  
+- Fundamentos de pentesting y ethical hacking   
+- Herramientas como Kali Linux  
 
 📫 **Contacto:**  
 - ✉️ Email: joseburgos153@gmail.com  
@@ -51,9 +50,8 @@ Actualmente aprendiendo:
 
 🔒 **Exploring Cybersecurity:**  
 Currently focused on:  
-- Pentesting fundamentals & ethical hacking  
-- Web app security (OWASP Top 10)  
-- Tools like Kali Linux and Wireshark  
+- Pentesting fundamentals & ethical hacking   
+- Tools like Kali Linux
 
 📫 **Get in touch:**  
 - ✉️ Email: joseburgos153@gmail.com  
