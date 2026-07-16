@@ -2,7 +2,7 @@
 
 **¡Hola! 👋 Soy José Burgos**  
 
-📌 **Estudiante de Ingeniería en Computación** | **Desarrollador Full-Stack** | **Apasionado por IA y Ciberseguridad**  
+📌 **Ingeniero en Computación** | **Desarrollador Full-Stack** | **Apasionado por desarrollo full stack y Ciberseguridad**  
 
 💻 **Tecnologías principales:**  
 - **Desarrollo Web/Móvil:** React, Node.js, JavaScript, Firebase  
@@ -34,7 +34,7 @@ Actualmente aprendiendo:
 
 **Hi there! 👋 I'm José Burgos**  
 
-📌 **Computer Engineering Student** | **Full-Stack Developer** | **AI & Cybersecurity Enthusiast**  
+📌 **Computer Engineer** | **Full-Stack Developer** | **Fll-Stack & Cybersecurity Enthusiast**  
 
 💻 **Core Skills:**  
 - **Web/Mobile Dev:** React, Node.js, JavaScript, Firebase  
