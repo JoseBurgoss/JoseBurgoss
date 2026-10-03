@@ -1,75 +1,65 @@
-### **Español** | **[English below](#english)**
+<h1 align="center">José Burgos</h1>
+<h3 align="center">Computer Engineer · Full-Stack &amp; Mobile Developer</h3>
 
-**¡Hola! 👋 Soy José Burgos**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-burgos-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jose--burgos--0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://jose-burgos-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+  <a href="mailto:joseburgos153@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joseburgos153@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-📌 **Ingeniero en Computación** | **Desarrollador Full-Stack** | **Apasionado por desarrollo full stack y Ciberseguridad**  
-
-💻 **Tecnologías principales:**  
-- **Desarrollo Web/Móvil:** React, Node.js, JavaScript, Firebase  
-- **IA & Visión por Computadora:** Python, OpenCV, TensorFlow, YOLOv8  
-- **Ciberseguridad:** En formación (Kali Linux, Metasploit, OWASP)  
-- **Automatización:** Python, Twilio, RPA  
-
-🚀 **Proyectos destacados:**  
-- Plataforma de noticias **El Zuliano** (React, Firebase)  
-- Sistema de **Reconocimiento de Emociones** (Python, OpenCV)  
-- Clasificador de residuos con **YOLOv8**  
-- Scripts de automatización y minería de datos (PostgreSQL, Apriori)  
-
-🔒 **Explorando Ciberseguridad:**  
-Actualmente aprendiendo:  
-- Fundamentos de pentesting y ethical hacking   
-- Herramientas como Kali Linux  
-
-📫 **Contacto:**  
-- ✉️ Email: joseburgos153@gmail.com  
-- 🔗 LinkedIn: [Jose Burgos](https://www.linkedin.com/in/jose-burgos)  
-
-🌎 **Idiomas:** Español (nativo), Inglés (avanzado)  
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
 
 ---
 
-<a name="english"></a>
-### **English**  
+## English
 
-**Hi there! 👋 I'm José Burgos**  
+Computer Engineer and **Full-Stack & Mobile Developer** with hands-on experience building scalable web and mobile platforms. I currently work in the **Innovation division at ALKOSTO**, developing consumer and operational applications with **React Native, Expo, React/Next.js, TypeScript and Node.js**, including real-time systems, geolocation and backends in **Go**.
 
-📌 **Computer Engineer** | **Full-Stack Developer** | **Fll-Stack & Cybersecurity Enthusiast**  
+- 📱 **Mobile:** React Native, Expo, real-time geolocation, push notifications
+- 🌐 **Web:** React, Next.js, TypeScript, Tailwind, shadcn/ui
+- 🧩 **Backend:** Node.js, Go (Gin/GORM), REST APIs, WebSockets/SSE, JWT, RBAC
+- 🗄️ **Databases:** PostgreSQL, MySQL/MariaDB
+- ⚙️ **Tools & DevOps:** Docker, Git Flow, Jest, CI/CD, Sentry
+- 🔐 Also passionate about **cybersecurity** (Google & Cisco certified), currently learning
 
-💻 **Core Skills:**  
-- **Web/Mobile Dev:** React, Node.js, JavaScript, Firebase  
-- **AI & Computer Vision:** Python, OpenCV, TensorFlow, YOLOv8  
-- **Cybersecurity:** Currently learning (Kali Linux, Metasploit, OWASP)  
-- **Automation:** Python, Twilio, RPA  
+## Español
 
-🚀 **Featured Projects:**  
-- News platform **El Zuliano** (React, Firebase)  
-- **Facial Emotion Recognition** (Python, OpenCV)  
-- Waste classifier with **YOLOv8**  
-- Automation & data mining scripts (PostgreSQL, Apriori)  
+Ingeniero en Computación y **desarrollador Full-Stack & Mobile** con experiencia construyendo plataformas web y móviles escalables. Actualmente trabajo en la **división de Innovación de ALKOSTO**, desarrollando aplicaciones de consumo y operativas con **React Native, Expo, React/Next.js, TypeScript y Node.js**, incluyendo sistemas en tiempo real, geolocalización y backends en **Go**.
 
-🔒 **Exploring Cybersecurity:**  
-Currently focused on:  
-- Pentesting fundamentals & ethical hacking   
-- Tools like Kali Linux
-
-📫 **Get in touch:**  
-- ✉️ Email: joseburgos153@gmail.com  
-- 🔗 LinkedIn: [Jose Burgos](https://www.linkedin.com/in/jose-burgos)  
-
-🌎 **Languages:** Spanish (native), English (fluent)
+- 📱 **Móvil:** React Native, Expo, geolocalización en tiempo real, notificaciones push
+- 🌐 **Web:** React, Next.js, TypeScript, Tailwind, shadcn/ui
+- 🧩 **Backend:** Node.js, Go (Gin/GORM), APIs REST, WebSockets/SSE, JWT, RBAC
+- 🗄️ **Bases de datos:** PostgreSQL, MySQL/MariaDB
+- ⚙️ **Herramientas & DevOps:** Docker, Git Flow, Jest, CI/CD, Sentry
+- 🔐 Además me apasiona la **ciberseguridad** (certificado por Google y Cisco), en formación continua
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JoseBurgoss&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JoseBurgoss&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseBurgoss&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured projects
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JoseBurgoss&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Portfolio**](https://github.com/JoseBurgoss/JoseBurgos-Portfolio) | Personal portfolio website ([live demo](https://jose-burgos-portfolio.vercel.app/)) | Astro · React · TypeScript · Tailwind |
+| [**El Zuliano**](https://github.com/JoseBurgoss/El-Zuliano) | News platform with registration, subscriptions and real-time updates ([live](https://el-zuliano.vercel.app)) | React · Firebase |
+| [**Movies App**](https://github.com/JoseBurgoss/Apicacion_Movil_Peliculas) | Movie & TV discovery mobile app with auth and favorites | React Native · Expo · Firebase |
+| [**Virtual Store**](https://github.com/JoseBurgoss/Tienda-virtual) | E-commerce web app with cart and authentication ([live](https://tienda-virtual-pi-liart.vercel.app/)) | React · Firebase |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JoseBurgoss&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📫 Get in touch
+
+- ✉️ **Email:** joseburgos153@gmail.com
+- 🔗 **LinkedIn:** [jose-burgos-](https://www.linkedin.com/in/jose-burgos-/)
+- 🌐 **Portfolio:** [jose-burgos-portfolio.vercel.app](https://jose-burgos-portfolio.vercel.app/)
+- 📍 Maracaibo, Venezuela
+
+<p align="center"><em>Open to remote opportunities and freelance web &amp; mobile projects.</em></p>
