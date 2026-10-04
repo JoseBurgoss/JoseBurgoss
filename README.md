@@ -50,7 +50,7 @@ Ingeniero en Computación y **desarrollador Full-Stack & Mobile** con experienci
 | --- | --- | --- |
 | [**Portfolio**](https://github.com/JoseBurgoss/JoseBurgos-Portfolio) | Personal portfolio website ([live demo](https://jose-burgos-portfolio.vercel.app/)) | Astro · React · TypeScript · Tailwind |
 | [**El Zuliano**](https://github.com/JoseBurgoss/El-Zuliano) | News platform with registration, subscriptions and real-time updates ([live](https://el-zuliano.vercel.app)) | React · Firebase |
-| [**Movies App**](https://github.com/JoseBurgoss/Apicacion_Movil_Peliculas) | Movie & TV discovery mobile app with auth and favorites | React Native · Expo · Firebase |
+| [**Movies App**](https://github.com/JoseBurgoss/MoviesApp-Expo) | Movie & TV discovery mobile app with auth and favorites | React Native · Expo · Firebase |
 | [**Virtual Store**](https://github.com/JoseBurgoss/Tienda-virtual) | E-commerce web app with cart and authentication ([live](https://tienda-virtual-pi-liart.vercel.app/)) | React · Firebase |
 
 ---
